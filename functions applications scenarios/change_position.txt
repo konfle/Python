@@ -1,0 +1,384 @@
+--------------------
+Function "change_position" started at 2020-08-01T18:29:30.432712
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T18:29:30.432712
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T21:58:55.951139
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T21:58:55.952141
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T21:59:23.192939
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T21:59:23.193937
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T21:59:36.148841
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T21:59:36.149840
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T21:59:44.069244
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T21:59:44.070245
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:18:03.399725
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:18:03.400725
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:18:50.752920
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:18:50.753920
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:19:28.597752
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:19:28.598752
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:20:14.459840
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:20:14.460841
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:20:21.481962
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:20:21.482961
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:21:28.805306
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:21:28.806308
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:21:48.132970
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:21:48.133970
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:23:48.228778
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:23:48.229779
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:25:12.931329
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:25:12.932330
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:27:07.150639
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:27:07.151640
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:27:23.532797
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:27:23.533797
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:28:06.314356
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:28:06.315358
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:28:32.651183
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:28:32.652183
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:29:22.443308
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:29:22.444308
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:29:43.259841
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:29:43.260836
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:29:59.810626
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:29:59.811627
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:30:34.500278
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:30:34.501278
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:31:14.454121
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:31:14.455121
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:32:18.468219
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:32:18.469219
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:32:50.259576
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:32:50.260577
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:33:03.294326
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:33:03.295326
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:33:25.808923
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:33:25.809922
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:33:49.859119
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:33:49.860120
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:34:40.317259
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:34:40.318260
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:34:47.453648
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:34:47.454648
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:35:36.344303
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:35:36.345303
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
+--------------------
+Function "change_position" started at 2020-08-01T22:36:14.401102
+Following arguments ware used:
+Johnson CEO
+
+Function returned CEO
+--------------------
+Function "change_position" started at 2020-08-01T22:36:14.402102
+Following arguments ware used:
+Jefferson Creative Director
+
+Function returned Creative Director
